@@ -13,7 +13,3 @@ List with Add, Edit and Remove components
 
 https://glocery-list.netlify.app/
 
-
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
